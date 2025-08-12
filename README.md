@@ -33,11 +33,11 @@ contact-form-T6/
 
 ---
 
----
-
 ## 🚀 Live Preview
-[Click here to view the live project](https://img.shields.io/badge/LIVE%20PREVIEW-Click%20Here-brightgreen?style=for-the-badge)](https://aarjav-jain151.github.io/contact-form-T6/)
 
+[![Live Preview](https://img.shields.io/badge/Live%20Preview-2ea44f?style=for-the-badge)](https://aarjav-jain151.github.io/contact-form-T6/)
+
+---
 
 ## 🛠️ How It Works
 1. **User Fills Form** – Enters Name, Email, and Message.
